@@ -1,4 +1,0 @@
-Sample log
-
-Error: something failed at Mon Mar 16 22:55:14 CST 2026
-Details: demo log entry
